@@ -1,0 +1,7 @@
+ISBN | Title | Author | Publisher | Year | Price | Quantity
+0062405616 | First Star I See Tonight: A Novel (Chicago Stars) | Susan Elizabeth Phillips | William Morrow | 2016 | 19.46 | 1
+0312577222 | The Nightingale | Kristin Hannah | St. Martin's Press | 2015 | 13.99 | 1
+1338097679 | Hogwarts Classics (Harry Potter) | J.K. Rowling | Arthur A. Levine Books | 2016 | 11.99 | 1
+1338099132 | Harry Potter and the Cursed Child, Parts 1 & 2, Special Rehearsal Edition Script | J.K. Rowling | Arthur A. Levine Books | 2016 | 17.98 | 1
+1505527910 | Group, Photo, Grave: A Kiki Lowenstein Mystery (Volume 8) | Joanna Campbell Slan | CreateSpace Independent Publishing Platform | 2015 | 15.99 | 1
+1618931539 | Animal Planet Animals: A Visual Encyclopedia | Animal Planet | Animal Planet | 2015 | 17.41 | 1
