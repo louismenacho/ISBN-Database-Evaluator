@@ -1,7 +1,8 @@
-Media Evaluation
-Estimated total price calculator for a list of ISBNs. 
-Evaluates ISBNs via Amazon website.
-Fetches info and price about each book.
+ISBN Database and Evaluator
+
+Estimates total price calculator for a list of ISBNs. 
+Evaluates ISBNs via Amazon's API.
+Fetches price and info on each book.
 Maintains an inventory linked to an Oracle database and with historical transactions.
 
 Requirements:
